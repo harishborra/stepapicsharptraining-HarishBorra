@@ -1,0 +1,13 @@
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.exe
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.deps.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.runtimeconfig.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.runtimeconfig.dev.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\bin\Debug\netcoreapp3.1\BasicPrograms.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.csprojAssemblyReference.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.AssemblyInfo.cs
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.genruntimeconfig.cache
