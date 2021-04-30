@@ -1,0 +1,13 @@
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.exe
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.deps.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.runtimeconfig.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.runtimeconfig.dev.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.csprojAssemblyReference.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.AssemblyInfoInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.AssemblyInfo.cs
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.csproj.CoreCompileInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\FactorialNumber\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.genruntimeconfig.cache
