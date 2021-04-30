@@ -1,0 +1,12 @@
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\bin\Debug\netcoreapp3.1\FibnocciSeries.exe
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\bin\Debug\netcoreapp3.1\FibnocciSeries.deps.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\bin\Debug\netcoreapp3.1\FibnocciSeries.runtimeconfig.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\bin\Debug\netcoreapp3.1\FibnocciSeries.runtimeconfig.dev.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\bin\Debug\netcoreapp3.1\FibnocciSeries.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\bin\Debug\netcoreapp3.1\FibnocciSeries.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\obj\Debug\netcoreapp3.1\FibnocciSeries.AssemblyInfoInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\obj\Debug\netcoreapp3.1\FibnocciSeries.AssemblyInfo.cs
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\obj\Debug\netcoreapp3.1\FibnocciSeries.csproj.CoreCompileInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\obj\Debug\netcoreapp3.1\FibnocciSeries.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\obj\Debug\netcoreapp3.1\FibnocciSeries.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\FibnocciSeries\FibnocciSeries\obj\Debug\netcoreapp3.1\FibnocciSeries.genruntimeconfig.cache
