@@ -13,10 +13,10 @@ namespace WebApplication1.Controllers
         static List<string> data = initList();
         private static List<string> initList()
         {
-            var ret = new List<string>();
-            ret.Add("Value1");
-            ret.Add("Value2");
-            return ret;
+            var nl = new List<string>();
+            nl.Add("Value1");
+            nl.Add("Value2");
+            return nl;
         }
         public IEnumerable<string> Get()
         {
