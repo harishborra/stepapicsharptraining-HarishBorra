@@ -1,0 +1,12 @@
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.exe
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.deps.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.runtimeconfig.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.runtimeconfig.dev.json
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.AssemblyInfo.cs
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.dll
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.pdb
+C:\Users\harishborra\Desktop\C#\C# Pratice\PolymorphismDemo\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.genruntimeconfig.cache
