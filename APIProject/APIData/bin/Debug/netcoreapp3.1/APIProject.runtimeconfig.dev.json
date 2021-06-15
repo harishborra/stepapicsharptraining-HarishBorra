@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SAILS-TDM06\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SAILS-TDM06\\.nuget\\packages"
+    ]
+  }
+}
